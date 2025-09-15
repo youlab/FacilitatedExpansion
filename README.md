@@ -1,1 +1,1 @@
-This repository will be updated during the review/revision process of its corresponding manuscript. Until a final version is available, any specific inquiries can be directed to the first or the corresponding authors.
+This repository will be updated during the review/revision process of its corresponding manuscript. Until a final version is available, any specific inquiries can be directed to the corresponding authors.
